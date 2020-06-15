@@ -1,0 +1,15 @@
+
+.content {
+    background-color: #eff3c6;
+    width: max-content;
+}
+h2 {
+    background-color: #77d8d8;
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: grey;
+    width: 30%;
+}
